@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9def9561-dadd-4561-95c9-5710368636c4" alt="Demo GIF" width="1024" height="800">
+<img src="https://github.com/user-attachments/assets/9def9561-dadd-4561-95c9-5710368636c4" alt="Demo GIF" width="1024">
 <div align="center">
   <h1>Hi there 👋, I'm Aws Njadat</h1>
 </div>
