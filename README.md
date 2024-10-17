@@ -32,9 +32,14 @@ An Industrial Engineer and Data Analyst with experience in analyzing complex dat
 - Engaging projects to enhance learning
 
 
-### 🛠️ Technical Skills
+### 🛠️ Skills
 ---
-<img src="https://github.com/user-attachments/assets/79c4042f-aee5-4bf7-a311-5ddbe5f008df" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/e3dcd209-543a-424e-a69a-ae47168a0fa3" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/dc02192f-f48b-45f9-ad66-6c8c81ac2ffa" width="50" height="50"> 
-
+- MS Excel
+- Power BI
+- SQL
+- Python
+- DAX
+- Analytical Thinking
+- Problem Solving
+- Communication
+- Presentation Skills
